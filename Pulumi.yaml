@@ -1,0 +1,6 @@
+name: webserver_asg
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: EC2 with ASG and Loadbalancer
